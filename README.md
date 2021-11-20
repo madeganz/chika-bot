@@ -38,6 +38,7 @@
 # Chika-Bot
 ## Information
 > ChikaBot ialah recode base dari [Xinz-bot](https://github.com/xinz-team/xinzBot)
+> Kamu bisa mencoba beta multi-device menggunakan [Repo ini](https://github.com/rashidsiregar28/chika-bot/tree/multi)
 >
 >
 
