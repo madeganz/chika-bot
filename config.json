@@ -1,19 +1,19 @@
 {
-  "ownerNumber": [ "6285219416361@s.whatsapp.net" ],
+  "ownerNumber": [ "687965044@s.whatsapp.net" ],
   "limitCount": 20,
   "gamewaktu": 60,
-  "botName": "ChikaBot",
+  "botName": "Made-Bot",
   "pathImg": "./media/yo.jpg",
-  "lolkey": "APIKEY",
+  "lolkey": "genbotkey",
   "zekskey": "chika-key",
   "tobzkey": "Tobzzz17",
-  "aqulzkey": "APIKEY",
+  "aqulzkey": "aqulzkey1",
   "sesidInsta": "1548633294%3AqTFgHr7mE6tmU8%3A13",
   "sessionName": "chika",
   "gcount": {
     "prem": 999999,
     "user": 25
   },
-  "packSticker": "By ChikaBot😍😍",
+  "packSticker": "By MadeBot😍😍",
   "authorSticker": "Jangan Lupa Donasi Yak😅"
 }
